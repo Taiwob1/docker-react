@@ -28,4 +28,4 @@ jobs:
           existing_bucket_name: elasticbeanstalk-us-east-1-889170827265
           region: us-east-1
           version_label: ${{ github.sha }}
-          deployment_package: loi.h
+          deployment_package: deploy.zip
